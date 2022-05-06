@@ -1,5 +1,5 @@
 # Lottery DApp
-This contract is managed by Lottery
+This contract is managed by on Ethereum Blockchain
 
 ### To be used
 - React v18.1.0
@@ -7,3 +7,4 @@ This contract is managed by Lottery
 - Testing with Mocha, Ganache
 - Integrate the metamask
 - Solc v0.4.87
+- Web3 v1.0
